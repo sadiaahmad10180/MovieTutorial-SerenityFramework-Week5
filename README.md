@@ -42,28 +42,22 @@ The application demonstrates the four core understanding areas required by the a
 ## Screenshots
 
 ### Login Page
-
-!\[Login Page]([screenshots/login.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/login.png))
+![Login Page](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/login.png)
 
 ### Dashboard
-
-!\[Dashboard]([screenshots/dashboard.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/dashboard.png))
+![Dashboard](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/dashboard.png)
 
 ### Movies Grid
-
-!\[Movies Grid]([screenshots/movies\_grid.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/movies_grid.png))
+![Movies Grid](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/movies_grid.png)
 
 ### Movie Dialog (New Movie)
-
-!\[Movie Dialog](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/movies_grid.png)
+![Movie Dialog](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/movie_dialog.png)
 
 ### Genre Management
-
-!\[Genres]([screenshots/genres.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/genres.png))
+![Genres](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/genres.png)
 
 ### Person Management
-
-!\[Persons]([screenshots/persons.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/persons.png))
+![Persons](https://raw.githubusercontent.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/master/screenshots/persons.png)
 
 
 ## How to Run

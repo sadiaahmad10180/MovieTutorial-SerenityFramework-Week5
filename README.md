@@ -6,7 +6,6 @@
 **Academic Supervisor:** Dr. Irfan ul Haq  
 **Industrial Supervisor:** Mr. Ali Sammo
 
-\---
 
 ## Description
 
@@ -19,7 +18,6 @@ The application demonstrates the four core understanding areas required by the a
 * **Permissions**: Role-based access control using `Administration:General` permission key
 * **Data Binding**: Lookup editors, many-to-many genre selection, master-detail cast grid
 
-\---
 
 ## Technology Stack
 
@@ -32,7 +30,6 @@ The application demonstrates the four core understanding areas required by the a
 |ORM|Dapper + FluentMigrator|
 |IDE|Visual Studio 2026 Community|
 
-\---
 
 ## Features Implemented
 
@@ -45,7 +42,6 @@ The application demonstrates the four core understanding areas required by the a
 * Dashboard showing live counts of Movies, Genres, and Persons
 * Demo modules (Northwind, BasicSamples, AdvancedSamples) removed for clean deployment
 
-\---
 
 ## Screenshots
 
@@ -73,17 +69,15 @@ The application demonstrates the four core understanding areas required by the a
 
 !\[Persons](screenshots/persons.png)
 
-\---
 
 ## How to Run
 
 1. Clone the repository
 2. Open `MovieTutorial.sln` in Visual Studio 2022+
 3. Make sure SQL Server LocalDB is installed
-4. Press **F5** — migrations run automatically on startup
+4. Press **Ctrl F5** migrations run automatically on startup
 5. Login with: **Username:** `admin` | **Password:** `serenity`
 
-\---
 
 ## Database Tables
 

@@ -1,10 +1,6 @@
-# Movie Tutorial by Sadia Ahmad - Week 5
-
-**MS Computer Science. PIEAS. Session 2024–2026**  
-**Student ID:** MS-24-IT-503589  
-**Submission:** Week 5 Deliverable: Serenity Framework  
-**Academic Supervisor:** Dr. Irfan ul Haq  
-**Industrial Supervisor:** Mr. Ali Sammo
+# Movie Tutorial by Sadia Ahmad
+ 
+**Submission:** Serenity Framework  
 
 
 ## Description

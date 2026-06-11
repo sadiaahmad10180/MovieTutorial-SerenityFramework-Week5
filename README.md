@@ -2,7 +2,7 @@
 
 **MS Computer Science. PIEAS. Session 2024–2026**  
 **Student ID:** MS-24-IT-503589  
-**Submission:** Week 5 Deliverable — Serenity Framework  
+**Submission:** Week 5 Deliverable: Serenity Framework  
 **Academic Supervisor:** Dr. Irfan ul Haq  
 **Industrial Supervisor:** Mr. Ali Sammo
 
@@ -47,27 +47,27 @@ The application demonstrates the four core understanding areas required by the a
 
 ### Login Page
 
-!\[Login Page](screenshots/login.png)
+!\[Login Page]([screenshots/login.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/login.png))
 
 ### Dashboard
 
-!\[Dashboard](screenshots/dashboard.png)
+!\[Dashboard]([screenshots/dashboard.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/dashboard.png))
 
 ### Movies Grid
 
-!\[Movies Grid](screenshots/movies\_grid.png)
+!\[Movies Grid]([screenshots/movies\_grid.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/movies_grid.png))
 
 ### Movie Dialog (New Movie)
 
-!\[Movie Dialog](screenshots/movie\_dialog.png)
+!\[Movie Dialog](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/movies_grid.png)
 
 ### Genre Management
 
-!\[Genres](screenshots/genres.png)
+!\[Genres]([screenshots/genres.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/genres.png))
 
 ### Person Management
 
-!\[Persons](screenshots/persons.png)
+!\[Persons]([screenshots/persons.png](https://github.com/sadiaahmad10180/MovieTutorial-SerenityFramework-Week5/blob/master/screenshots/persons.png))
 
 
 ## How to Run
